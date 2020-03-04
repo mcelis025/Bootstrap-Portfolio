@@ -61,4 +61,7 @@ body {
     background-image: url(img/white-waves.png);
 }
 
-
+#copyright {
+    font-size: 10px;
+    padding-bottom: 10px;
+}
