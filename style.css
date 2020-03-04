@@ -13,7 +13,7 @@
 
 #hangmanText {
     position: absolute; 
-    bottom: 15%; 
+    bottom: 10%; 
     width: 100%;
 }
 
@@ -23,7 +23,7 @@
 
 #rpgText {
     position: absolute; 
-    bottom: 15%; 
+    bottom: 10%; 
     width: 100%;
 }
 
@@ -33,7 +33,7 @@
 
 #triviaText {
     position: absolute; 
-    bottom: 15%; 
+    bottom: 10%; 
     width: 100%;
 }
 
@@ -43,7 +43,7 @@
 
 #rutgersText {
     position: absolute; 
-    bottom: 15%; 
+    bottom: 10%; 
     width: 100%;
 }
 
@@ -53,6 +53,12 @@
 
 #rockText {
     position: absolute; 
-    bottom: 15%; 
+    bottom: 10%; 
     width: 100%;
 }
+
+body {
+    background-image: url(img/white-waves.png);
+}
+
+
