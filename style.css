@@ -48,10 +48,22 @@
 }
 
 #rock {
+    height: 90%;
     width: 100%;
 }
 
 #rockText {
+    position: absolute; 
+    bottom: 10%; 
+    width: 100%;
+}
+
+.images {
+    height: 90%;
+    width: 100%;
+}
+
+.imgText {
     position: absolute; 
     bottom: 10%; 
     width: 100%;
