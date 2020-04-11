@@ -7,57 +7,6 @@
     width: 170px;
 }
 
-#hangman {
-    width: 100%;
-}
-
-#hangmanText {
-    position: absolute; 
-    bottom: 10%; 
-    width: 100%;
-}
-
-#rpg {
-    width: 100%;
-}
-
-#rpgText {
-    position: absolute; 
-    bottom: 10%; 
-    width: 100%;
-}
-
-#trivia {
-    width: 100%;
-}
-
-#triviaText {
-    position: absolute; 
-    bottom: 10%; 
-    width: 100%;
-}
-
-#rutgers {
-    width: 100%;
-}
-
-#rutgersText {
-    position: absolute; 
-    bottom: 10%; 
-    width: 100%;
-}
-
-#rock {
-    height: 90%;
-    width: 100%;
-}
-
-#rockText {
-    position: absolute; 
-    bottom: 10%; 
-    width: 100%;
-}
-
 .images {
     height: 90%;
     width: 100%;
